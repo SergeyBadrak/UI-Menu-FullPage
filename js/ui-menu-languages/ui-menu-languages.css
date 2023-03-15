@@ -92,6 +92,7 @@
 .lang-switcher > ul li.current-lang {
     display: flex;
     align-items: flex-start;
+    pointer-events: none;
 }
 
 
